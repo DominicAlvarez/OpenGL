@@ -1,0 +1,59 @@
+﻿  Cube.cpp
+  Parsol.cpp
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(6,10): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(6,10): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(6,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(6,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(7,10): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(7,10): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(7,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(7,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(10,10): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(10,10): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(10,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(10,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(11,10): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(11,10): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(11,42): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(11,42): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(14,10): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(14,10): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(14,42): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(14,42): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(15,10): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(15,10): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(15,42): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(15,42): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(18,10): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(18,10): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(18,42): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(18,42): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(19,10): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(19,10): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(19,42): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(19,42): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(23,10): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(23,10): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(23,42): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(23,42): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(24,10): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(24,10): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(24,42): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(24,42): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(27,10): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(27,10): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(27,42): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(27,42): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(28,10): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(28,10): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(28,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\Parsol.cpp(28,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Plane.cpp
+  main.cpp
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\main.cpp(243,17): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\main.cpp(247,17): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\main.cpp(252,17): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\main.cpp(263,17): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\Aaftab\source\repos\Assignment5\Assignment5\main.cpp(266,17): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  Generating Code...
+  Assignment5.vcxproj -> C:\Users\Aaftab\source\repos\Assignment5\x64\Debug\Assignment5.exe
