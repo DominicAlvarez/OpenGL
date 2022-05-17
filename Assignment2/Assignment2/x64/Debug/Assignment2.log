@@ -1,0 +1,130 @@
+﻿  ChineseFan.cpp
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(15,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(15,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(15,38): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(15,38): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(16,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(16,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(16,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(16,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(19,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(19,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(19,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(19,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(20,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(20,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(20,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(20,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(23,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(23,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(23,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(23,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(24,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(24,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(24,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(24,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(27,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(27,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(27,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(27,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(28,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(28,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(28,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(28,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(31,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(31,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(31,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(31,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(32,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(32,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(32,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(32,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(35,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(35,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(35,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(35,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(36,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(36,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(36,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(36,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(39,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(39,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(39,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(39,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(40,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(40,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(40,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(40,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(43,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(43,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(43,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(43,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(44,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(44,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(44,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(44,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(48,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(48,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(48,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(48,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(49,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(49,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(49,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(49,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(52,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(52,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(52,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(52,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(53,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(53,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(53,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(53,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(56,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(56,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(56,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(56,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(57,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(57,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(57,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(57,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(60,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(60,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(60,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(60,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(61,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(61,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(61,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(61,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(64,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(64,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(64,39): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(64,39): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(65,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(65,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(65,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(65,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(68,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(68,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(68,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(68,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(69,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(69,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(69,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(69,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(72,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(72,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(72,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(72,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(73,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(73,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(73,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(73,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(76,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(76,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(76,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(76,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(77,13): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(77,13): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(77,40): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+C:\Users\Aaftab\source\repos\Assignment2\Assignment2\ChineseFan.h(77,40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Assignment2.vcxproj -> C:\Users\Aaftab\source\repos\Assignment2\x64\Debug\Assignment2.exe
