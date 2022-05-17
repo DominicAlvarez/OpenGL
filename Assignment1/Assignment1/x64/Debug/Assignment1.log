@@ -1,0 +1,3 @@
+﻿  HexagonColored.cpp
+C:\Users\Aaftab\source\repos\Assignment1\Assignment1\HexagonColored.cpp(34,8): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Assignment1.vcxproj -> C:\Users\Aaftab\source\repos\Assignment1\x64\Debug\Assignment1.exe
